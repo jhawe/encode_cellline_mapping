@@ -1,0 +1,361 @@
+GM12878	Cell Line	blood	F	GM12878	human	BTO:0002062
+K562	Cell Line	blood	F	K562	human	BTO:0000664
+K562b	Cell Line	blood	F	K562b	human	BTO:0000664
+HepG2	Cell Line	liver	M	HEPG2	human	BTO:0000599
+HepG2b	Cell Line	liver	M	HEPG2b	human	BTO:0000599
+HeLa-S3	Cell Line	cervix	F	HELAS3	human	BTO:0000568
+HUVEC	Cell Line	blood vessel	U	HUVEC	human	BTO:0001949
+H1-hESC	Cell Line	embryonic stem cell	M	H1HESC	human	CL:0000007
+H1-neurons	Cell Line	neurons	M	H1NEURONS	human	BTO:0000938
+LHCN-M2	Cell Line	skeletal muscle myoblast	M	LHCNM2	human	BTO:0005046
+8988T	Cell Line	liver	F	8988T	human	BTO:0001521 (non-specific)
+A549	Cell Line	epithelium	M	A549	human	BTO:0000018
+AG04449	Cell Line	skin	M	AG04449	human	BTO:0001253
+AG04450	Cell Line	lung	M	AG04450	human	BTO:0000763
+AG09309	Cell Line	skin	F	AG09309	human	BTO:0001253
+AG09319	Cell Line	gingival	F	AG09319	human	BTO:0004138
+AG10803	Cell Line	skin	M	AG10803	human	BTO:0001253
+Adult_CD4_naive	Cell Line	blood	B	ADULTCD4NAIVE	human	BTO:0000782
+Adult_CD4_Th0	Cell Line	blood	B	ADULTCD4TH0	human	BTO:0000782
+Adult_CD4_Th1	Cell Line	blood	B	ADULTCD4TH1	human	BTO:0000782
+AoAF	Cell Line	blood vessel	F	AOAF	human	BTO:0000135
+AoSMC	Cell Line	blood vessel	U	AOSMC	human	BTO:0001685
+Astrocy	Cell Line	brain	U	ASTRO	human	BTO:0000099
+BC_Adipose_UHN00001	Cell Line	adipose tissue	F	BCADIPOSE	human	BTO:0001487
+BC_Adrenal_Gland_H12803N	Cell Line	adrenal gland	F	BCADRENAL	human	BTO:0000047
+BC_Bladder_01-11002	Cell Line	urinary bladder	F	BCBLADDER	human	BTO:0001418
+BC_Brain_H11058N	Cell Line	brain	M	BCBRAIN	human	BTO:0000142
+BC_Breast_02-03015	Cell Line	breast	F	BCBREAST	human	BTO:0000149
+Colon_BC	Cell Line	colon	B	COLONBC	human	BTO:0000269
+BC_Colon_01-11002	Cell Line	colon	F	BCCOLON	human	BTO:0000269
+BC_Colon_H12817N	Cell Line	colon	M	BCCOLONb	human	BTO:0000269
+Esophagus_BC	Cell Line	esophagus	B	ESOPHAGUSBC	human	BTO:0000959
+BC_Esophagus_01-11002	Cell Line	esophagus	F	BCESOPHAGUS	human	BTO:0000959
+BC_Esophagus_H12817N	Cell Line	esophagus	M	BCESOPHAGUSb	human	BTO:0000959
+BC_Jejunum_H12817N	Cell Line	jejunum	M	BCJEJUNUM	human	BTO:0000657
+Kidney_BC	Cell Line	kidney	B	KIDNEYBC	human	BTO:0000671
+BC_Kidney_01-11002	Cell Line	kidney	F	BCKIDNEY	human	BTO:0000671
+BC_Kidney_H12817N	Cell Line	kidney	M	BCKIDNEYb	human	BTO:0000671
+BC_Left_Ventricle_N41	Cell Line	left ventricle	M	BCLEFVENTRI	human	BTO:0001629
+BC_Leukocyte_UHN00204	Cell Line	blood	M	BCLEUKOCYTE	human	BTO:0001025
+BC_Liver_01-11002	Cell Line	liver	F	BCLIVER	human	BTO:0000759
+Lung_BC	Cell Line	lung	B	LUNGBC	human	BTO:0000763
+BC_Lung_01-11002	Cell Line	lung	F	BCLUNG	human	BTO:0000763
+BC_Lung_H12817N	Cell Line	lung	M	BCLUNGb	human	BTO:0000763
+BC_Pancreas_H12817N	Cell Line	pancreas	M	BCPANCREAS	human	BTO:0000988
+BC_Penis_H12817N	Cell Line	penis	M	BCPENIS	human	BTO:0000405
+BC_Pericardium_H12529N	Cell Line	pericardium	F	BCPERICARDIUM	human	BTO:0000717
+BC_Placenta_UHN00189	Cell Line	placenta	F	BCPLACENTA	human	BTO:0001078
+BC_Prostate_Gland_H12817N	Cell Line	prostate gland	M	BCPROSTATE	human	BTO:0001129
+BC_Rectum_N29	Cell Line	rectum	M	BCRECTUM	human	BTO:0001158
+Skeletal_Muscle_BC	Cell Line	skeletal muscle	B	SKELBC	human	BTO:0001103
+BC_Skeletal_Muscle_01-11002	Cell Line	skeletal muscle	F	BCSKEL	human	BTO:0001103
+BC_Skeletal_Muscle_H12817N	Cell Line	skeletal muscle	M	BCSKELb	human	BTO:0001103
+BC_Skin_01-11002	Cell Line	skin	F	BCSKIN	human	BTO:0001253
+BC_Small_Intestine_01-11002	Cell Line	small intestine	F	BCSMINTESTINE	human	BTO:0000651
+BC_Spleen_H12817N	Cell Line	spleen	M	BCSPLEENb	human	BTO:0001281
+Stomach_BC	Cell Line	stomach	B	STOMACHBC	human	BTO:0001307
+BC_Stomach_01-11002	Cell Line	stomach	F	BCSTOMACH	human	BTO:0001307
+BC_Stomach_H12817N	Cell Line	stomach	M	BCSTOMACHb	human	BTO:0001307
+BC_Testis_N30	Cell Line	testis	M	BCTESTIS	human	BTO:0001363
+BC_Uterus_BN0765	Cell Line	uterus	F	BCUTERUS	human	BTO:0001424
+BE2_C	Cell Line	brain	M	BE2C	human	BTO:0001620
+BG02ES	Cell Line	embryonic stem cell	M	BG02ES	human	BTO:0001086
+BG02ES-EBD	Cell Line	embryonic stem cell	M	BG02ESEBD	human	BTO:0001086
+BJ	Cell Line	skin	M	BJ	human	BTO:0001255
+Breast_OC	Cell Line	breast	F	BREASTOC	human	BTO:0000149
+CD14+	Cell Line	monocytes	F	CD14	human	BTO:0000876
+CD20+	Cell Line	blood	F	CD20	human	BTO:0000776
+CD20+_RO01778	Cell Line	blood	F	CD20RO01778	human	BTO:0000776
+CD20+_RO01794	Cell Line	blood	F	CD20RO01794	human	BTO:0000776
+CD34+_Mobilized	Cell Line	blood	M	CD34MOBILIZED	human	BTO:0000725
+CD4+_Naive_Wb11970640	Cell Line	blood	M	CD4NAIVEWB11970640	human	BTO:0000782
+CD4+_Naive_Wb78495824	Cell Line	blood	F	CD4NAIVEWB78495824	human	BTO:0000782
+GC_B_cell	Cell Line	tonsil	U	GCBCELL	human	BTO:0003671
+CLL	Cell Line	blood	F	CLL	human	BTO:0001546
+Caco-2	Cell Line	colon	M	CACO2	human	BTO:0000195
+Cerebellum_OC	Cell Line	cerebellum	M	CEREBELLUMOC	human	BTO:0000232
+Cerebrum_frontal_OC	Cell Line	frontal cerebrum	M	CEREBRUMFRONTALOC	human	BTO:0000239
+Chorion	Cell Line	fetal membrane	U	CHORION	human	BTO:0000252
+CMK	Cell Line	blood	M	CMK	human	BTO:0004962
+Colo829	Cell Line	skin	M	COLO829	human	BTO:0000849
+Colon_OC	Cell Line	colon	B	COLONOC	human	BTO:0000269
+Cord_CD4_naive	Cell Line	blood	B	CORDCD4NAIVE	human	BTO:0000782
+Cord_CD4_Th0	Cell Line	blood	B	CORDCD4TH0	human	BTO:0000782
+Cord_CD4_Th1	Cell Line	blood	B	CORDCD4TH1	human	BTO:0000782
+Decidua	Cell Line	cervix	F	DECIDUA	human	BTO:0001360
+Dnd41	Cell Line	blood	M	DND41	human	BTO:0001106
+ECC-1	Cell Line	luminal epithelium	F	ECC1	human	BTO:0000194
+Endometrium_OC	Cell Line	endometrium	F	ENDOMETRIUMOC	human	BTO:0001422
+Fibrobl	Cell Line	skin	F	FIBROBL	human	BTO:0000452
+FibroP	Cell Line	skin	U	FIBROP	human	BTO:0000452
+FibroP_AG20443	Cell Line	skin fibroblast	M	FIBROPAG20443	human	BTO:0000452
+FibroP_AG08395	Cell Line	skin fibroblast	F	FIBROPAG08395	human	BTO:0000452
+FibroP_AG08396	Cell Line	lung fibroblast	F	FIBROPAG08396	human	BTO:0000452
+Frontal_cortex_OC	Cell Line	frontal cortex	F	FRONTALCORTEXOC	human	BTO:0000484
+Gliobla	Cell Line	brain	U	GLIOBLA	human	BTO:0000527
+Fibrobl_GM03348	Cell Line	skin	M	FIBROBLGM03348	human	BTO:0001255
+GM04503	Cell Line	skin	F	GM04503	human	BTO:0001253
+GM04504	Cell Line	skin	F	GM04504	human	BTO:0001253
+GM06990	Cell Line	blood	F	GM06990	human	BTO:0002062 (non-specific)
+GM08714	Cell Line	blood	F	GM08714	human	BTO:0002062
+GM10248	Cell Line	blood	M	GM10248	human	BTO:0002062
+GM10266	Cell Line	blood	M	GM10266	human	BTO:0002062
+GM10847	Cell Line	blood	F	GM10847	human	BTO:0002062 (non-specific)
+GM12801	Cell Line	blood	M	GM12801	human	BTO:0002062 (non-specific)
+GM12812	Cell Line	blood	M	GM12812	human	BTO:0002062
+GM12813	Cell Line	blood	F	GM12813	human	BTO:0002062
+GM12864	Cell Line	blood	M	GM12864	human	BTO:0002062 (non-specific)
+GM12865	Cell Line	blood	F	GM12865	human	BTO:0002062 (non-specific)
+GM12866	Cell Line	blood	M	GM12866	human	BTO:0002062 (non-specific)
+GM12867	Cell Line	blood	F	GM12867	human	BTO:0002062 (non-specific)
+GM12868	Cell Line	blood	F	GM12868	human	BTO:0002062 (non-specific)
+GM12869	Cell Line	blood	F	GM12869	human	BTO:0002062 (non-specific)
+GM12870	Cell Line	blood	M	GM12870	human	BTO:0002062 (non-specific)
+GM12871	Cell Line	blood	M	GM12871	human	BTO:0002062 (non-specific)
+GM12872	Cell Line	blood	M	GM12872	human	BTO:0002062 (non-specific)
+GM12873	Cell Line	blood	F	GM12873	human	BTO:0002062 (non-specific)
+GM12874	Cell Line	blood	M	GM12874	human	BTO:0002062 (non-specific)
+GM12875	Cell Line	blood	F	GM12875	human	BTO:0002062 (non-specific)
+GM12878-XiMat	Cell Line	blood	F	GM12878Xb	human	BTO:0002062
+GM12891	Cell Line	blood	M	GM12891	human	BTO:0002062 (non-specific)
+GM12892	Cell Line	blood	F	GM12892	human	BTO:0002062 (non-specific)
+GM15510	Cell Line	blood	U	GM15510	human	BTO:0002062 (non-specific)
+GM13976	Cell Line	blood	F	GM13976	human	BTO:0002062
+GM13977	Cell Line	blood	F	GM13977	human	BTO:0002062
+GM18505	Cell Line	blood	F	GM18505	human	BTO:0002062 (non-specific)
+GM18507	Cell Line	blood	M	GM18507	human	BTO:0002062 (non-specific)
+GM18526	Cell Line	blood	F	GM18526	human	BTO:0002062 (non-specific)
+GM18951	Cell Line	blood	F	GM18951	human	BTO:0002062 (non-specific)
+GM19099	Cell Line	blood	F	GM19099	human	BTO:0002062 (non-specific)
+GM19193	Cell Line	blood	F	GM19193	human	BTO:0002062 (non-specific)
+GM19238	Cell Line	blood	F	GM19238	human	BTO:0002062 (non-specific)
+GM19239	Cell Line	blood	M	GM19239	human	BTO:0002062 (non-specific)
+GM19240	Cell Line	blood	F	GM19240	human	BTO:0002062 (non-specific)
+GM20000	Cell Line	blood	M	GM20000	human	BTO:0002062
+H0287	Cell Line	blood	M	H0287	human	BTO:0002807
+H7-hESC	Cell Line		U	H7ES	human	BTO:0001086
+H9ES	Cell Line	embryonic stem cell	F	H9ES	human	BTO:0001086
+H9ES-E	Cell Line	embryonic stem cell	F	H9ESE	human	BTO:0001086
+H9ES-AFP+	Cell Line	embryonic stem cell	F	H9ESAFP	human	BTO:0001086
+H9ES-AFP-	Cell Line	embryonic stem cell	F	H9ESAFPb	human	BTO:0001086
+H9ES-EB	Cell Line	embryonic stem cell	F	H9ESEB	human	BTO:0001086
+H9ES-EBD	Cell Line	embryonic stem cell	F	H9ESEBD	human	BTO:0001086
+H9ES-CM	Cell Line	embryonic stem cell	F	H9ESCM	human	BTO:0001086
+HAc	Cell Line	cerebellar	U	HAC	human	BTO:0000099
+HAEpiC	Cell Line	epithelium	U	HAE	human	BTO:0004660
+HA-h	Cell Line	brain hippocampus	U	HAH	human	BTO:0000099
+HAL	Cell Line	liver	U	HAL	human	BTO:0000759
+HAoAF	Cell Line	blood vessel	B	HAOAF	human	BTO:0000135
+HAoAF_6090101.11	Cell Line	blood vessel	M	HAOAF609010111	human	BTO:0000135
+HAoAF_6111301.9	Cell Line	blood vessel	F	HAOAF61113019	human	BTO:0000135
+HAoEC	Cell Line	blood vessel	B	HAOEC	human	BTO:0000394
+HAoEC_8061102.1	Cell Line	blood vessel	M	HAOEC80611021	human	BTO:0000394
+HAoEC_7071706.1	Cell Line	blood vessel	F	HAOEC70717061	human	BTO:0000394
+HA-sp	Cell Line	spinal cord	U	HASP	human	BTO:0000099
+HBMEC	Cell Line	blood vessel	U	HBMEC	human	BTO:0003636
+HBVP	Cell Line	blood vessel	U	HBVP	human	BTO:0002441
+HBVSMC	Cell Line	blood vessel	F	HBVSMC	human	BTO:0002488
+HCFaa	Cell Line	heart	F	HCFAA	human	BTO:0003093
+HCF	Cell Line	heart	U	HCF	human	BTO:0003093
+HCH	Cell Line	cartilage	M	HCH	human	BTO:0000249
+HCH_8100808.2	Cell Line	cartilage	M	HCH81008082	human	BTO:0000249
+HCH_0011308.2P	Cell Line	cartilage	F	HCH00113082P	human	BTO:0000249
+HConF	Cell Line	eye	U	HCONF	human	BTO:0003415
+HCM	Cell Line	heart	U	HCM	human	BTO:0001539
+HCPEpiC	Cell Line	epithelium	U	HCPE	human	BTO:0000258
+HCT-116	Cell Line	colon	M	HCT116	human	BTO:0002254
+Heart_OC	Cell Line	heart	B	HEARTOC	human	BTO:0000562
+HEEpiC	Cell Line	epithelium	U	HEE	human	BTO:0001578
+HEK293	Cell Line	kidney	U	HEK293	human	BTO:0000007
+HEK293T	Cell Line	kidney	F	HEK293T	human	BTO:0000007
+HEK293(b)	Cell Line	kidney	U	HEK293b	human	BTO:0000007
+HEK293-T-REx	Cell Line	kidney	F	HEK293TREx	human	BTO:0000007
+Hepatocytes	Cell Line	liver	B	HEPATO	human	BTO:0000575
+HFDPC	Cell Line	skin	F	HFDPC	human	BTO:0001849
+HFDPC_0100503.2	Cell Line	skin	F	HFDPC01005032	human	BTO:0001849
+HFDPC_0102703.3	Cell Line	skin	F	HFDPC01027033	human	BTO:0001849
+HFF	Cell Line	foreskin	M	HFF	human	BTO:0002245
+HFF-Myc	Cell Line	foreskin	M	HFFMYC	human	BTO:0002245
+HFL11W	Cell Line	liver	U	HFL11W	human	BTO:0000759
+HFL24W	Cell Line	liver	U	HFL24W	human	BTO:0000759
+HGF	Cell Line	gingiva	U	HGF	human	BTO:0000519 (non-specific)
+HHSEC	Cell Line	liver	U	HHSEC	human	BTO:0001251
+HIPEpiC	Cell Line	epithelium	U	HIPE	human	BTO:0000653
+HL-60	Cell Line	blood	F	HL60	human	BTO:0000738
+HMEC	Cell Line	breast	U	HMEC	human	BTO:0002178
+HMEpC	Cell Line	mammary gland	F	HMEPC	human	BTO:0002178
+HMEpC_6022801.3	Cell Line	mammary gland	F	HMEPC60228013	human	BTO:0002178
+HMF	Cell Line	mammary	F	HMF	human	BTO:0000817
+hMNC-PB	Cell Line	blood	B	HMNCPB	human	BTO:0001025
+hMNC-PB_0022330.9	Cell Line	blood	M	HMNCPB00223309	human	BTO:0001025
+hMNC-PB_0082430.9	Cell Line	blood	F	HMNCPB00824309	human	BTO:0001025
+hMNC-CB	Cell Line	blood	B	HMNCCB	human	BTO:0004054
+hMNC-CB_9111701.6	Cell Line	blood	F	HMNCCB91117016	human	BTO:0004054
+hMNC-CB_8072802.6	Cell Line	blood	M	HMNCCB80728026	human	BTO:0004054
+hMSC-BM	Cell Line	bone marrow	B	HMSCBM	human	BTO:0003298
+hMSC-BM_0050602.11	Cell Line	bone marrow	M	HMSCBM005060211	human	BTO:0003298
+hMSC-BM_0051105.11	Cell Line	bone marrow	F	HMSCBM005110511	human	BTO:0003298
+hMSC-AT	Cell Line	adipose	F	HMSCAT	human	BTO:0003298
+hMSC-AT_9061601.12	Cell Line	subcutaneous adipose tissue	F	HMSCAT906160112	human	BTO:0003298
+hMSC-AT_0102604.12	Cell Line	adipose	F	HMSCAT010260412	human	BTO:0003298
+hMSC-UC	Cell Line	umbilical cord	B	HMSCUC	human	BTO:0003298
+hMSC-UC_0081101.7	Cell Line	umbilical cord	F	HMSCUC00811017	human	BTO:0003298
+hMSC-UC_0052501.7	Cell Line	umbilical cord	M	HMSCUC00525017	human	BTO:0003298
+HMVEC-dAd	Cell Line	blood vessel	F	HMVECDAD	human	BTO:0001854
+HMVEC-LLy	Cell Line	blood vessel	F	HMVECb	human	BTO:0003599
+HMVEC-dBl-Ad	Cell Line	blood vessel	F	HMVECc	human	BTO:0004574
+HMVEC-dBl-Neo	Cell Line	blood vessel	M	HMVECd	human	BTO:0004574
+HMVEC-dLy-Ad	Cell Line	blood vessel	F	HMVECe	human	BTO:0004574
+HMVEC-dLy-Neo	Cell Line	blood vessel	M	HMVECf	human	BTO:0004574
+HMVEC-dNeo	Cell Line	blood vessel	M	HMVECg	human	BTO:0004574
+HMVEC-LBl	Cell Line	blood vessel	F	HMVECh	human	BTO:0003599
+HNPCEpiC	Cell Line	epithelium	U	HNPCE	human	BTO:0001770
+HOB	Cell Line	cancellous bone	M	HOB	human	BTO:0004324
+HOB_0090202.1	Cell Line	cancellous bone	M	HOB00902021	human	BTO:0004324
+HOB_0091301	Cell Line	cancellous bone	F	HOB0091301	human	BTO:0004324
+HPAEC	Cell Line	blood vessel	F	HPAEC	human	BTO:0001141
+HPAEpiC	Cell Line	epithelium	U	HPAE	human	BTO:0003511
+HPAF	Cell Line	blood vessel	U	HPAF	human	BTO:0000778
+HPC-PL	Cell Line	placenta	B	HPCPL	human	BTO:0001975
+HPC-PL_0032601.13	Cell Line	placenta	M	HPCPL003260113	human	BTO:0001975
+HPC-PL_0101504.13	Cell Line	placenta	F	HPCPL010150413	human	BTO:0001975
+HPDE6-E6E7	Cell Line	pancreatic duct	F	HPDE6E6E7	human	BTO:0002362
+HPdLF	Cell Line	epithelium	M	HPDLF	human	BTO:0001020
+HPF	Cell Line	lung	U	HPF	human	BTO:0000764
+HPIEpC	Cell Line	placenta	B	HPIEPC	human	BTO:0001975
+HPIEpC_9012801.2	Cell Line	placenta	F	HPIEPC90128012	human	BTO:0001975
+HPIEpC_9041503.2	Cell Line	placenta	M	HPIEPC90415032	human	BTO:0001975
+HRCEpiC	Cell Line	epithelium	U	HRCE	human	BTO:0000059 (non-specific)
+HRE	Cell Line	epithelium	U	HRE	human	BTO:0000059 (non-specific)
+HRGEC	Cell Line	kidney	U	HRGEC	human	BTO:0001176
+HRPEpiC	Cell Line	epithelium	U	HRPE	human	BTO:0001177
+bone_marrow_HS27a	Cell Line	bone marrow	M	HS27A	human	BTO:0000141
+bone_marrow_HS5	Cell Line	bone marrow	M	HS5	human	BTO:0000141
+bone_marrow_MSC	Cell Line	bone marrow	M	MSC	human	BTO:0000141
+HSaVEC	Cell Line	blood vessel	M	HSAVEC	human	BTO:0003275
+HSaVEC_9100101.15	Cell Line	blood vessel	M	HSAVEC910010115	human	BTO:0003275
+HSaVEC_0022202.16	Cell Line	blood vessel	M	HSAVEC002220216	human	BTO:0003275
+HSMM	Cell Line	muscle	U	HSMM	human	BTO:0000256 (non-specific)
+HSMM_emb	Cell Line	muscle	U	HSMMEMB	human	BTO:0000222
+HSMM_FSHD	Cell Line	muscle	U	HSMMFSHD	human	BTO:0000222
+HSMMtube	Cell Line	muscle	U	HSMMt	human	BTO:0001760 (non-specific)
+HSMMtube_emb	Cell Line	muscle	U	HSMMTUBEEMB	human	BTO:0001760
+HSMMtube_FSHD	Cell Line	muscle	U	HSMMTUBEFSHD	human	BTO:0001760
+HT-1080	Cell Line	epithelium	M	HT1080	human	BTO:0001282
+HTR8svn	Cell Line	blastula	F	HTR8	human	BTO:0001079
+Huh-7	Cell Line	liver	M	HUH7	human	BTO:0001950
+Huh-7.5	Cell Line	liver	M	HUH75	human	BTO:0001950
+HVMF	Cell Line	connective	U	HVMF	human	BTO:0002625
+HVMF_6100401.3	Cell Line	placenta	F	HVMF61004013	human	BTO:0001975
+HVMF_6091203.3	Cell Line	placenta	M	HVMF60912033	human	BTO:0001975
+HWP	Cell Line	adipose	B	HWP	human	BTO:0004042
+HWP_0092205	Cell Line	subcutaneous adipose tissue	M	HWP0092205	human	BTO:0004042
+HWP_8120201.5	Cell Line	subcutaneous adipose tissue	F	HWP81202015	human	BTO:0004042
+IMR90	Cell Line	lung	F	IMR90	human	BTO:0001229
+iPS	Cell Line	induced pluripotent stem cell	B	IPS	human	BTO:0000001 (nonspecific)
+iPS_hFib2_iPS4	Cell Line	induced pluripotent cell (iPS)	M	IPSHFIB2IPS4	human	BTO:0000001
+iPS_hFib2_iPS5	Cell Line	induced pluripotent cell (iPS)	M	IPSHFIB2IPS5	human	BTO:0000001
+iPS_CWRU1	Cell Line	induced pluripotent cell (iPS)	M	IPSCWRU1	human	BTO:0000001
+iPS_NIHi7	Cell Line	induced pluripotent cell (iPS)	F	IPSNIHI7	human	BTO:0000001
+iPS_NIHi11	Cell Line	induced pluripotent cell (iPS)	M	IPSNIHI11	human	BTO:0000001
+Ishikawa	Cell Line	uterus	F	ISHIKAWA	human	BTO:0000658
+Jurkat	Cell Line	blood	M	JURKAT	human	BTO:0001948
+Kidney_OC	Cell Line	kidney	B	KIDNEYOC	human	BTO:0000671
+LHSR	Cell Line	epithelium	U	LHSR	human	BTO:0002398
+Liver_OC	Cell Line	liver	M	LIVEROC	human	BTO:0000759
+Liver_STL011	Cell Line	liver	M	LIVSTL011	human	BTO:0000759
+Liver_STL004	Cell Line	liver	F	LIVSTL004	human	BTO:0000759
+LNCaP	Cell Line	prostate	M	LNCAP	human	BTO:0002021
+Loucy	Cell Line	blood	F	LOUCY	human	BTO:0002104
+Lung_OC	Cell Line	Lung	B	LUNGOC	human	BTO:0000763
+Lymphoblastoid_cell_line	Cell Line	blood	B	LYMPHOBLAST	human	BTO:0002062 (non-specific)
+M059J	Cell Line	brain	M	M059J	human	BTO:0000527
+MCF-7	Cell Line	breast	F	MCF7	human	BTO:0000093
+MCF10A-Er-Src	Cell Line	breast	F	MCF10AES	human	BTO:0001939
+MDA-MB-231	Cell Line	breast	F	MDA	human	BTO:0000815
+Medullo	Cell Line	brain	U	MEDULLO	human	BTO:0001359
+Medullo_D341	Cell Line	brain	U	MEDULLOD341	human	BTO:0001757
+Melano	Cell Line	skin	U	MELANO	human	BTO:0000847
+Mel_2183	Cell Line	Melanoma cell line derived from melanoma metastasis	U	MEL2183	human	BTO:0000849
+Monocytes-CD14+	Cell Line	monocytes	F	MONOCD14	human	BTO:0000876
+Monocytes-CD14+_RO01746	Cell Line	monocytes	F	MONOCD14RO1746	human	BTO:0000876
+Monocytes-CD14+_RO01826	Cell Line	monocytes	F	MONOCD14RO1826	human	BTO:0000876
+MRT_G401	Cell Line	kidney	M	MRTG401	human	BTO:0002062
+MRT_A204	Cell Line	muscle	F	MRTA204	human	BTO:0002062
+MRT_TTC549	Cell Line	liver	M	MRTTTC549	human	BTO:0002062
+Myometr	Cell Line	myometrium	F	MYOMETR	human	BTO:0000907
+Naive_B_cell	Cell Line	tonsil	U	NAIVEBCELL	human	BTO:0000776
+NB4	Cell Line	blood	U	NB4	human	BTO:0002489
+NH-A	Cell Line	brain	U	NHA	human	BTO:0000099
+NHBE	Cell Line	epithelium	F	NHBE	human	BTO:0002022
+NHBE_RA	Cell Line	bronchial epithelium	F	NHBERA	human	BTO:0001845
+NHDF-Ad	Cell Line	skin	F	NHDFAD	human	BTO:0004419
+NHDF-neo	Cell Line	skin	U	NHDFNEO	human	BTO:0004419
+NHDF	Cell Line	skin	F	NHDF	human	BTO:0003185
+NHDF_0060801.3	Cell Line	skin	F	NHDF00608013	human	BTO:0003185
+NHDF_7071701.2	Cell Line	skin	F	NHDF70717012	human	BTO:0003185
+NHEK	Cell Line	skin	U	NHEK	human	BTO:0000375
+NHEM_M2	Cell Line	skin	B	NHEMM2	human	BTO:0000847
+NHEM_M2_7011001.2	Cell Line	skin	M	NHEMM270110012	human	BTO:0000847
+NHEM_M2_7012303	Cell Line	skin	F	NHEMM27012303	human	BTO:0000847
+NHEM.f_M2	Cell Line	skin	M	NHEMFM2	human	BTO:0000847
+NHEM.f_M2_5071302.2	Cell Line	skin	M	NHEMFM250713022	human	BTO:0000847
+NHEM.f_M2_6022001	Cell Line	skin	M	NHEMFM26022001	human	BTO:0000847
+NHLF	Cell Line	lung	U	NHLF	human	BTO:0000161 (non-specific)
+NT2-D1	Cell Line	testis	M	NT2D1	human	BTO:0000946
+Olf_neurosphere	Cell Line	Nasal biopsy	U	OLFNEUROSPHERE	human	termId BTO:0000961
+Osteobl	Cell Line	bone	U	OSTEO	human	BTO:0001593
+ovcar-3	Cell Line	ovary	F	OVCAR3	human	BTO:0000812
+PANC-1	Cell Line	pancreas	M	PANC1	human	BTO:0000304
+Pancreas_OC	Cell Line	pancreas	M	PANCREASOC	human	BTO:0000988
+PanIsletD	Cell Line	pancreas	B	PANISD	human	BTO:0000991 (non-specific)
+PanIslets	Cell Line	pancreas	M	PANISLETS	human	BTO:0000991 (non-specific)
+PBDE	Cell Line	blood	M	PBDE	human	BTO:0000574 (non-specific)
+PBDEFetal	Cell Line	liver	U	PBDEFETAL	human	BTO:0000553
+PBMC	Cell Line	blood	M	PBMC	human	BTO:0001025
+PFSK-1	Cell Line	brain	M	PFSK1	human	BTO:0000690 (non-specific)
+pHTE	Cell Line	epithelium	U	PHTE	human	BTO:0001120 (non-specific)
+Pons_OC	Cell Line	pons mid-brain	M	PONSOC	human	BTO:0001101
+PrEC	Cell Line	prostate	U	PREC	human	BTO:0002398
+ProgFib	Cell Line	skin	M	PROGFIB	human	BTO:0001255 (non-specific)
+prostate	Cell Line	prostate	M	PROSTATE	human	BTO:0001129
+Prostate_OC	Cell Line	prostate	M	PROSTATEOC	human	BTO:0001129
+Psoas_muscle_OC	Cell Line	psoas muscle	B	PSOASMUSCLEOC	human	BTO:0001140
+Raji	Cell Line	blood	M	RAJI	human	BTO:0001154
+RCC_7860	Cell Line	kidney	M	RCC7860	human	BTO:0000037
+RPMI-7951	Cell Line	skin	F	RPMI7951	human	BTO:0003508
+RPTEC	Cell Line	epithelium	U	RPTEC	human	BTO:0001498
+RWPE1	Cell Line	prostate	M	RWPE1	human	BTO:0002397
+SAEC	Cell Line	epithelium	U	SAEC	human	BTO:0002022 (non-specific)
+SH-SY5Y	Cell Line	brain	F	SHSY5Y	human	BTO:0000793
+SK-N-MC	Cell Line	brain	F	SKNMC	human	BTO:0002372 (non-specific)
+SK-N-SH	Cell Line	brain	F	SKNSH	human	BTO:0001620
+SK-N-SH_RA	Cell Line	brain	F	SKNSHRA	human	BTO:0002372 (non-specific)
+SKMC	Cell Line	muscle	U	SKMC	human	BTO:0001801 (non-specific)
+SkMC	Cell Line	muscle	B	SKMC	human	BTO:0002916
+SkMC_9011302	Cell Line	striated muscle	F	SKMC9011302	human	BTO:0002916
+SkMC_8121902.17	Cell Line	striated muscle	M	SKMC812190217	human	BTO:0002916
+Small_intestine_OC	Cell Line	small intestine	M	SMALLINTESTINEOC	human	BTO:0000651
+Spleen_OC	Cell Line	spleen	F	SPLEENOC	human	BTO:0001281
+Stellate	Cell Line	liver	F	STELLATE	human	BTO:0002316
+T_cells_CD4+	Cell Line	blood	B	TCELLSCD4	human	BTO:0000782
+T98G	Cell Line	brain	M	T98G	human	BTO:0001583
+TBEC	Cell Line	epithelium	M	TBEC	human	BTO:0001389 (non-specific)
+Th1	Cell Line	blood	U	TH1	human	BTO:0001678
+Th1_Wb33676984	Cell Line	blood	F	TH1WB33676984	human	BTO:0001678
+Th1_Wb54553204	Cell Line	blood	M	TH1WB54553204	human	BTO:0001678
+Th17	Cell Line	blood	B	TH17	human	BTO:0002417
+Th2	Cell Line	blood	U	TH2	human	BTO:0001679
+Th2_Wb33676984	Cell Line	blood	F	TH2WB33676984	human	BTO:0001679
+Th2_Wb54553204	Cell Line	blood	M	TH2WB54553204	human	BTO:0001679
+T-47D	Cell Line	breast	F	T47D	human	BTO:0001248
+Treg_Wb78495824	Cell Line	blood	F	TREGWB78495824	human	BTO:0004520
+Treg_Wb83319432	Cell Line	blood	M	TREGWB83319432	human	BTO:0004520
+Urothelia	Cell Line	urothelium	F	UROTHEL	human	BTO:0001245
+U87	Cell Line	brain	M	U87	human	BTO:0002036
+U2OS	Cell Line	bone	F	U2OS	human	BTO:0000970
+UCH-1	Cell Line	chordoma	M	UCH1	human	BTO:0001768
+WERI-Rb-1	Cell Line	eye	F	WERIRB1	human	BTO:0001178 (non-specific)
+WI-38	Cell Line	embryonic lung	F	WI38	human	BTO:0001958
+Heart_STL003	Cell Line	heart	M	HeartSTL003	human	BTO:0000562
