@@ -21,7 +21,7 @@ AoAF	Cell Line	blood vessel	F	AOAF	human	BTO:0000135	NA
 AoSMC	Cell Line	blood vessel	U	AOSMC	human	BTO:0001685	NA
 Astrocy	Cell Line	brain	U	ASTRO	human	BTO:0000099	Brain - Cerebellum;Brain - Caudate (basal ganglia);Brain - Cortex;Brain - Nucleus accumbens (basal ganglia);Brain - Cerebellar Hemisphere;Brain - Frontal Cortex (BA9);Brain - Hippocampus;Brain - Putamen (basal ganglia);Brain - Anterior cingulate cortex (BA24);Brain - Hypothalamus;Brain - Amygdala;Brain - Spinal cord (cervical c-1);Brain - Substantia nigra
 BC_Adipose_UHN00001	Cell Line	adipose tissue	F	BCADIPOSE	human	BTO:0001487	Adipose - Subcutaneous;Adipose - Visceral (Omentum)
-BC_Adrenal_Gland_H12803N	Cell Line	adrenal gland	F	BCADRENAL	human	BTO:0000047	Adrenal Gland;Minor Salivary Gland
+BC_Adrenal_Gland_H12803N	Cell Line	adrenal gland	F	BCADRENAL	human	BTO:0000047	Adrenal Gland
 BC_Bladder_01-11002	Cell Line	urinary bladder	F	BCBLADDER	human	BTO:0001418	Bladder
 BC_Brain_H11058N	Cell Line	brain	M	BCBRAIN	human	BTO:0000142	Brain - Cerebellum;Brain - Caudate (basal ganglia);Brain - Cortex;Brain - Nucleus accumbens (basal ganglia);Brain - Cerebellar Hemisphere;Brain - Frontal Cortex (BA9);Brain - Hippocampus;Brain - Putamen (basal ganglia);Brain - Anterior cingulate cortex (BA24);Brain - Hypothalamus;Brain - Amygdala;Brain - Spinal cord (cervical c-1);Brain - Substantia nigra
 BC_Breast_02-03015	Cell Line	breast	F	BCBREAST	human	BTO:0000149	Breast - Mammary Tissue
@@ -45,7 +45,7 @@ BC_Pancreas_H12817N	Cell Line	pancreas	M	BCPANCREAS	human	BTO:0000988	Pancreas
 BC_Penis_H12817N	Cell Line	penis	M	BCPENIS	human	BTO:0000405	NA
 BC_Pericardium_H12529N	Cell Line	pericardium	F	BCPERICARDIUM	human	BTO:0000717	NA
 BC_Placenta_UHN00189	Cell Line	placenta	F	BCPLACENTA	human	BTO:0001078	NA
-BC_Prostate_Gland_H12817N	Cell Line	prostate gland	M	BCPROSTATE	human	BTO:0001129	Adrenal Gland;Prostate;Minor Salivary Gland
+BC_Prostate_Gland_H12817N	Cell Line	prostate gland	M	BCPROSTATE	human	BTO:0001129	Prostate
 BC_Rectum_N29	Cell Line	rectum	M	BCRECTUM	human	BTO:0001158	NA
 Skeletal_Muscle_BC	Cell Line	skeletal muscle	B	SKELBC	human	BTO:0001103	Muscle - Skeletal
 BC_Skeletal_Muscle_01-11002	Cell Line	skeletal muscle	F	BCSKEL	human	BTO:0001103	Muscle - Skeletal
@@ -133,7 +133,7 @@ GM20000	Cell Line	blood	M	GM20000	human	BTO:0002062	Whole Blood
 H0287	Cell Line	blood	M	H0287	human	BTO:0002807	Whole Blood
 HAc	Cell Line	cerebellar	U	HAC	human	BTO:0000099	Brain - Cerebellar Hemisphere
 HAEpiC	Cell Line	epithelium	U	HAE	human	BTO:0004660	NA
-HA-h	Cell Line	brain hippocampus	U	HAH	human	BTO:0000099	Brain - Cerebellum;Brain - Caudate (basal ganglia);Brain - Cortex;Brain - Nucleus accumbens (basal ganglia);Brain - Cerebellar Hemisphere;Brain - Frontal Cortex (BA9);Brain - Hippocampus;Brain - Putamen (basal ganglia);Brain - Anterior cingulate cortex (BA24);Brain - Hypothalamus;Brain - Amygdala;Brain - Spinal cord (cervical c-1);Brain - Substantia nigra
+HA-h	Cell Line	brain hippocampus	U	HAH	human	BTO:0000099	Brain - Hippocampus
 HAL	Cell Line	liver	U	HAL	human	BTO:0000759	Liver
 HAoAF	Cell Line	blood vessel	B	HAOAF	human	BTO:0000135	NA
 HAoAF_6090101.11	Cell Line	blood vessel	M	HAOAF609010111	human	BTO:0000135	NA
@@ -173,8 +173,8 @@ HHSEC	Cell Line	liver	U	HHSEC	human	BTO:0001251	Liver
 HIPEpiC	Cell Line	epithelium	U	HIPE	human	BTO:0000653	NA
 HL-60	Cell Line	blood	F	HL60	human	BTO:0000738	Whole Blood
 HMEC	Cell Line	breast	U	HMEC	human	BTO:0002178	Breast - Mammary Tissue
-HMEpC	Cell Line	mammary gland	F	HMEPC	human	BTO:0002178	Breast - Mammary Tissue;Adrenal Gland;Minor Salivary Gland
-HMEpC_6022801.3	Cell Line	mammary gland	F	HMEPC60228013	human	BTO:0002178	Breast - Mammary Tissue;Adrenal Gland;Minor Salivary Gland
+HMEpC	Cell Line	mammary gland	F	HMEPC	human	BTO:0002178	Breast - Mammary Tissue
+HMEpC_6022801.3	Cell Line	mammary gland	F	HMEPC60228013	human	BTO:0002178	Breast - Mammary Tissue
 HMF	Cell Line	mammary	F	HMF	human	BTO:0000817	Breast - Mammary Tissue
 hMNC-PB	Cell Line	blood	B	HMNCPB	human	BTO:0001025	Whole Blood
 hMNC-PB_0022330.9	Cell Line	blood	M	HMNCPB00223309	human	BTO:0001025	Whole Blood

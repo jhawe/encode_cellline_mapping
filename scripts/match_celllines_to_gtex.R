@@ -20,9 +20,11 @@ for(i in 1:nrow(cl)) {
   tissue <- unlist(cl[i,'tissue'])
   # we ignore 'blood vessel'
   if(tissue == "blood vessel")  { next }
-
-  # we ignore ' tissue' (leads to some wrong mappings)
-  tissue <- gsub(" tissue", "", tissue)
+  
+  # we ignore ' tissue' and ' gland' (leads to some wrong mappings)
+  tissue <- gsub(" tissue| gland", "", tissue)
+  # brain hippocampus maches to all brain tissues so we just use 'hippocampus'
+  tissue <- gsub("brain hippocampus", "hippocampus", tissue)
 
   # we simply check for ANY of the words in the tissue column of the cell-lines
   # to match the GTEx tissues, this is not fool proof and hence results should
