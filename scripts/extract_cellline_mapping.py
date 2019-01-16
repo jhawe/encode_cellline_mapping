@@ -8,7 +8,7 @@ tag = ""
 tkeys = ["term", "type", "tag", "tissue", "sex", "termId", "organism"]
 current_term = None
 
-with open("controlled_vocab.txt") as file:
+with open("../controlled_vocab.txt") as file:
  for line in file:
   if(line[0] == "#"):
    continue
