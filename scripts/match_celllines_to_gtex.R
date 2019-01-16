@@ -16,13 +16,20 @@ cl <- cl[!(cl$tissue %in% c("embryonic stem cell", "induced pluripotent stem cel
 
 # annotate cell lines with gtex-tissues
 cl <- cbind(cl, gtex=NA_character_)
-for(i in 1:nrow(cl)) { 
+for(i in 1:nrow(cl)) {
+  tissue <- unlist(cl[i,'tissue'])
+  # we ignore 'blood vessel'
+  if(tissue == "blood vessel")  { next }
+
+  # we ignore ' tissue' (leads to some wrong mappings)
+  tissue <- gsub(" tissue", "", tissue)
+
   # we simply check for ANY of the words in the tissue column of the cell-lines
   # to match the GTEx tissues, this is not fool proof and hence results should
   # be inspected manually
-  tissue <- paste0(".*", strsplit(unlist(cl[i,"tissue"]), " ")[[1]], ".*")
-  if(length(tissue)>1) {
-    idx <- lapply(tissue, function(tis) {
+  regtissue <- paste0(".*", strsplit(tissue, " ")[[1]], ".*")
+  if(length(regtissue)>1) {
+    idx <- lapply(regtissue, function(tis) {
       grepl(tis, gtex$Tissue, ignore.case=T)
     })
     # max is three, makes it easier..
@@ -33,7 +40,7 @@ for(i in 1:nrow(cl)) {
       idx <- do.call("|", idx)
     }
   } else {
-    idx <- grepl(tissue, gtex$Tissue, ignore.case=T)
+    idx <- grepl(regtissue, gtex$Tissue, ignore.case=T)
   }
   if(any(idx)) { 
     gtex_match <- gtex[idx,"Tissue"]
