@@ -1,0 +1,54 @@
+Tissue	UBERON	Number of RNASeq and Genotyped samples	Number of RNASeq Samples
+Muscle - Skeletal	0011907	491	564
+Skin - Sun Exposed (Lower leg)	0004264	414	473
+Thyroid	0002046	399	446
+Artery - Tibial	0007610	388	441
+Adipose - Subcutaneous	0002190	385	442
+Lung	0008952	383	427
+Whole Blood	0013756	369	407
+Nerve - Tibial	0001323	361	414
+Esophagus - Mucosa	0006920	358	407
+Esophagus - Muscularis	0004648	335	370
+Skin - Not Sun Exposed (Suprapubic)	0036149	335	387
+Adipose - Visceral (Omentum)	0010414	313	355
+Cells - Transformed fibroblasts	EFO_0002009	300	343
+Heart - Left Ventricle	0006566	272	303
+Artery - Aorta	0001496	267	299
+Heart - Atrial Appendage	0006631	264	297
+Breast - Mammary Tissue	0008367	251	290
+Colon - Transverse	0001157	246	274
+Stomach	0000945	237	262
+Testis	0000473	225	259
+Pancreas	0001150	220	248
+Esophagus - Gastroesophageal Junction	0004550	213	244
+Colon - Sigmoid	0001159	203	233
+Adrenal Gland	0013756	175	190
+Pituitary	0000007	157	183
+Brain - Cerebellum	0002037	154	173
+Liver	0001114	153	175
+Artery - Coronary	0001621	152	173
+Spleen	0002106	146	162
+Brain - Caudate (basal ganglia)	0001873	144	160
+Brain - Cortex	0001870	136	158
+Prostate	0002367	132	152
+Brain - Nucleus accumbens (basal ganglia)	0001882	130	147
+Brain - Cerebellar Hemisphere	0002037	125	136
+Ovary	0000992	122	133
+Small Intestine - Terminal Ileum	0001211	122	137
+Brain - Frontal Cortex (BA9)	0009834	118	129
+Cells - EBV-transformed lymphocytes	EFO_0000572	117	130
+Brain - Hippocampus	0001954	111	123
+Brain - Putamen (basal ganglia)	0001874	111	124
+Brain - Anterior cingulate cortex (BA24)	0009835	109	121
+Brain - Hypothalamus	0001898	108	121
+Vagina	0000996	106	115
+Uterus	0000995	101	111
+Brain - Amygdala	0001876	88	100
+Minor Salivary Gland	0006330	85	97
+Brain - Spinal cord (cervical c-1)	0006469	83	91
+Brain - Substantia nigra	0002038	80	88
+Kidney - Cortex	0001225	39	45
+Bladder	0001255	10	11
+Fallopian Tube	0003889	7	7
+Cervix - Ectocervix	0012249	6	6
+Cervix - Endocervix	0000458	5	5
