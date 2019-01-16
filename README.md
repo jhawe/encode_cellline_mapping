@@ -1,5 +1,5 @@
 ## Scripts to obtain a ENCODE cell-line mapping
-Generate a mapping of cell-lines used in ENCODE to their respective tissue and organism of origin.
+Generate a mapping of cell-lines used in ENCODE to their respective tissue of origin.
 
 ### GTEx tissues
 The list of GTEx tissues was manually obtained from 
