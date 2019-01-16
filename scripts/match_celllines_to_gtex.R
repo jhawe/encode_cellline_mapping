@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 library(data.table)
 gtex <- fread("gtex_tissues.tsv")
-cl <- fread("cell_line_info_human.tsv", header=T)
+cl <- fread("cell_line_info_human.tsv", header=F)
 colnames(cl) <- c("term", "type", "tissue", "sex", "tag", "organism", "reference")
 
 # we ignore non populated tissue fields, melanoma, ESCs and iPSCs for tissues
