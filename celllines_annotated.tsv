@@ -1,4 +1,5 @@
 term	type	tissue	sex	tag	organism	reference	gtex
+GM12878	Cell Line	blood	F	GM12878	human	BTO:0002062	Whole Blood
 K562	Cell Line	blood	F	K562	human	BTO:0000664	Whole Blood
 K562b	Cell Line	blood	F	K562b	human	BTO:0000664	Whole Blood
 HepG2	Cell Line	liver	M	HEPG2	human	BTO:0000599	Liver
