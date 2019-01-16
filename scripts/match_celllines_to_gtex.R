@@ -20,7 +20,7 @@ for(i in 1:nrow(cl)) {
   # we simply check for ANY of the words in the tissue column of the cell-lines
   # to match the GTEx tissues, this is not fool proof and hence results should
   # be inspected manually
-  tissue <- paste0("*", strsplit(unlist(cl[i,"tissue"]), " ")[[1]], "*")
+  tissue <- paste0(".*", strsplit(unlist(cl[i,"tissue"]), " ")[[1]], ".*")
   if(length(tissue)>1) {
     idx <- lapply(tissue, function(tis) {
       grepl(tis, gtex$Tissue, ignore.case=T)
@@ -44,7 +44,7 @@ for(i in 1:nrow(cl)) {
 # annotate gtex tissues with cell lines
 gtex <- cbind(gtex, celllines=NA_character_)
 for(i in 1:nrow(gtex)) { 
-  tis <- paste0("*", gtex[i,"Tissue"], "*")
+  tis <- paste0(".*", gtex[i,"Tissue"], ".*")
   idx <- grepl(tis, ignore.case=T, cl$gtex)
   if(any(idx)) {
     cls <- cl[idx, c("term", "tag")]

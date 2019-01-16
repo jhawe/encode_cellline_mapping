@@ -3,7 +3,7 @@ K562	Cell Line	blood	F	K562	human	BTO:0000664	Whole Blood
 K562b	Cell Line	blood	F	K562b	human	BTO:0000664	Whole Blood
 HepG2	Cell Line	liver	M	HEPG2	human	BTO:0000599	Liver
 HepG2b	Cell Line	liver	M	HEPG2b	human	BTO:0000599	Liver
-HeLa-S3	Cell Line	cervix	F	HELAS3	human	BTO:0000568	Brain - Spinal cord (cervical c-1);Cervix - Ectocervix;Cervix - Endocervix
+HeLa-S3	Cell Line	cervix	F	HELAS3	human	BTO:0000568	Cervix - Ectocervix;Cervix - Endocervix
 HUVEC	Cell Line	blood vessel	U	HUVEC	human	BTO:0001949	Whole Blood
 H1-neurons	Cell Line	neurons	M	H1NEURONS	human	BTO:0000938	NA
 LHCN-M2	Cell Line	skeletal muscle myoblast	M	LHCNM2	human	BTO:0005046	Muscle - Skeletal
@@ -56,7 +56,7 @@ BC_Spleen_H12817N	Cell Line	spleen	M	BCSPLEENb	human	BTO:0001281	Spleen
 Stomach_BC	Cell Line	stomach	B	STOMACHBC	human	BTO:0001307	Stomach
 BC_Stomach_01-11002	Cell Line	stomach	F	BCSTOMACH	human	BTO:0001307	Stomach
 BC_Stomach_H12817N	Cell Line	stomach	M	BCSTOMACHb	human	BTO:0001307	Stomach
-BC_Testis_N30	Cell Line	testis	M	BCTESTIS	human	BTO:0001363	Testis;Small Intestine - Terminal Ileum
+BC_Testis_N30	Cell Line	testis	M	BCTESTIS	human	BTO:0001363	Testis
 BC_Uterus_BN0765	Cell Line	uterus	F	BCUTERUS	human	BTO:0001424	Uterus
 BE2_C	Cell Line	brain	M	BE2C	human	BTO:0001620	Brain - Cerebellum;Brain - Caudate (basal ganglia);Brain - Cortex;Brain - Nucleus accumbens (basal ganglia);Brain - Cerebellar Hemisphere;Brain - Frontal Cortex (BA9);Brain - Hippocampus;Brain - Putamen (basal ganglia);Brain - Anterior cingulate cortex (BA24);Brain - Hypothalamus;Brain - Amygdala;Brain - Spinal cord (cervical c-1);Brain - Substantia nigra
 BJ	Cell Line	skin	M	BJ	human	BTO:0001255	Skin - Sun Exposed (Lower leg);Skin - Not Sun Exposed (Suprapubic)
@@ -80,7 +80,7 @@ Colon_OC	Cell Line	colon	B	COLONOC	human	BTO:0000269	Colon - Transverse;Colon - 
 Cord_CD4_naive	Cell Line	blood	B	CORDCD4NAIVE	human	BTO:0000782	Whole Blood
 Cord_CD4_Th0	Cell Line	blood	B	CORDCD4TH0	human	BTO:0000782	Whole Blood
 Cord_CD4_Th1	Cell Line	blood	B	CORDCD4TH1	human	BTO:0000782	Whole Blood
-Decidua	Cell Line	cervix	F	DECIDUA	human	BTO:0001360	Brain - Spinal cord (cervical c-1);Cervix - Ectocervix;Cervix - Endocervix
+Decidua	Cell Line	cervix	F	DECIDUA	human	BTO:0001360	Cervix - Ectocervix;Cervix - Endocervix
 Dnd41	Cell Line	blood	M	DND41	human	BTO:0001106	Whole Blood
 ECC-1	Cell Line	luminal epithelium	F	ECC1	human	BTO:0000194	NA
 Endometrium_OC	Cell Line	endometrium	F	ENDOMETRIUMOC	human	BTO:0001422	NA
@@ -141,7 +141,7 @@ HAoAF_6111301.9	Cell Line	blood vessel	F	HAOAF61113019	human	BTO:0000135	Whole B
 HAoEC	Cell Line	blood vessel	B	HAOEC	human	BTO:0000394	Whole Blood
 HAoEC_8061102.1	Cell Line	blood vessel	M	HAOEC80611021	human	BTO:0000394	Whole Blood
 HAoEC_7071706.1	Cell Line	blood vessel	F	HAOEC70717061	human	BTO:0000394	Whole Blood
-HA-sp	Cell Line	spinal cord	U	HASP	human	BTO:0000099	Artery - Coronary;Brain - Cortex;Brain - Frontal Cortex (BA9);Brain - Anterior cingulate cortex (BA24);Brain - Spinal cord (cervical c-1);Kidney - Cortex
+HA-sp	Cell Line	spinal cord	U	HASP	human	BTO:0000099	Brain - Spinal cord (cervical c-1)
 HBMEC	Cell Line	blood vessel	U	HBMEC	human	BTO:0003636	Whole Blood
 HBVP	Cell Line	blood vessel	U	HBVP	human	BTO:0002441	Whole Blood
 HBVSMC	Cell Line	blood vessel	F	HBVSMC	human	BTO:0002488	Whole Blood
@@ -150,7 +150,7 @@ HCF	Cell Line	heart	U	HCF	human	BTO:0003093	Heart - Left Ventricle;Heart - Atria
 HCH	Cell Line	cartilage	M	HCH	human	BTO:0000249	NA
 HCH_8100808.2	Cell Line	cartilage	M	HCH81008082	human	BTO:0000249	NA
 HCH_0011308.2P	Cell Line	cartilage	F	HCH00113082P	human	BTO:0000249	NA
-HConF	Cell Line	eye	U	HCONF	human	BTO:0003415	Kidney - Cortex
+HConF	Cell Line	eye	U	HCONF	human	BTO:0003415	NA
 HCM	Cell Line	heart	U	HCM	human	BTO:0001539	Heart - Left Ventricle;Heart - Atrial Appendage
 HCPEpiC	Cell Line	epithelium	U	HCPE	human	BTO:0000258	NA
 HCT-116	Cell Line	colon	M	HCT116	human	BTO:0002254	Colon - Transverse;Colon - Sigmoid
@@ -188,9 +188,9 @@ hMSC-BM_0051105.11	Cell Line	bone marrow	F	HMSCBM005110511	human	BTO:0003298	NA
 hMSC-AT	Cell Line	adipose	F	HMSCAT	human	BTO:0003298	Adipose - Subcutaneous;Adipose - Visceral (Omentum)
 hMSC-AT_9061601.12	Cell Line	subcutaneous adipose tissue	F	HMSCAT906160112	human	BTO:0003298	Adipose - Subcutaneous;Adipose - Visceral (Omentum);Breast - Mammary Tissue
 hMSC-AT_0102604.12	Cell Line	adipose	F	HMSCAT010260412	human	BTO:0003298	Adipose - Subcutaneous;Adipose - Visceral (Omentum)
-hMSC-UC	Cell Line	umbilical cord	B	HMSCUC	human	BTO:0003298	Artery - Coronary;Brain - Cortex;Brain - Frontal Cortex (BA9);Brain - Anterior cingulate cortex (BA24);Brain - Spinal cord (cervical c-1);Kidney - Cortex
-hMSC-UC_0081101.7	Cell Line	umbilical cord	F	HMSCUC00811017	human	BTO:0003298	Artery - Coronary;Brain - Cortex;Brain - Frontal Cortex (BA9);Brain - Anterior cingulate cortex (BA24);Brain - Spinal cord (cervical c-1);Kidney - Cortex
-hMSC-UC_0052501.7	Cell Line	umbilical cord	M	HMSCUC00525017	human	BTO:0003298	Artery - Coronary;Brain - Cortex;Brain - Frontal Cortex (BA9);Brain - Anterior cingulate cortex (BA24);Brain - Spinal cord (cervical c-1);Kidney - Cortex
+hMSC-UC	Cell Line	umbilical cord	B	HMSCUC	human	BTO:0003298	Brain - Spinal cord (cervical c-1)
+hMSC-UC_0081101.7	Cell Line	umbilical cord	F	HMSCUC00811017	human	BTO:0003298	Brain - Spinal cord (cervical c-1)
+hMSC-UC_0052501.7	Cell Line	umbilical cord	M	HMSCUC00525017	human	BTO:0003298	Brain - Spinal cord (cervical c-1)
 HMVEC-dAd	Cell Line	blood vessel	F	HMVECDAD	human	BTO:0001854	Whole Blood
 HMVEC-LLy	Cell Line	blood vessel	F	HMVECb	human	BTO:0003599	Whole Blood
 HMVEC-dBl-Ad	Cell Line	blood vessel	F	HMVECc	human	BTO:0004574	Whole Blood
@@ -285,7 +285,7 @@ NHEM.f_M2	Cell Line	skin	M	NHEMFM2	human	BTO:0000847	Skin - Sun Exposed (Lower l
 NHEM.f_M2_5071302.2	Cell Line	skin	M	NHEMFM250713022	human	BTO:0000847	Skin - Sun Exposed (Lower leg);Skin - Not Sun Exposed (Suprapubic)
 NHEM.f_M2_6022001	Cell Line	skin	M	NHEMFM26022001	human	BTO:0000847	Skin - Sun Exposed (Lower leg);Skin - Not Sun Exposed (Suprapubic)
 NHLF	Cell Line	lung	U	NHLF	human	BTO:0000161 (non-specific)	Lung
-NT2-D1	Cell Line	testis	M	NT2D1	human	BTO:0000946	Testis;Small Intestine - Terminal Ileum
+NT2-D1	Cell Line	testis	M	NT2D1	human	BTO:0000946	Testis
 Olf_neurosphere	Cell Line	Nasal biopsy	U	OLFNEUROSPHERE	human	termId BTO:0000961	NA
 Osteobl	Cell Line	bone	U	OSTEO	human	BTO:0001593	NA
 ovcar-3	Cell Line	ovary	F	OVCAR3	human	BTO:0000812	Ovary
@@ -338,6 +338,6 @@ Urothelia	Cell Line	urothelium	F	UROTHEL	human	BTO:0001245	NA
 U87	Cell Line	brain	M	U87	human	BTO:0002036	Brain - Cerebellum;Brain - Caudate (basal ganglia);Brain - Cortex;Brain - Nucleus accumbens (basal ganglia);Brain - Cerebellar Hemisphere;Brain - Frontal Cortex (BA9);Brain - Hippocampus;Brain - Putamen (basal ganglia);Brain - Anterior cingulate cortex (BA24);Brain - Hypothalamus;Brain - Amygdala;Brain - Spinal cord (cervical c-1);Brain - Substantia nigra
 U2OS	Cell Line	bone	F	U2OS	human	BTO:0000970	NA
 UCH-1	Cell Line	chordoma	M	UCH1	human	BTO:0001768	NA
-WERI-Rb-1	Cell Line	eye	F	WERIRB1	human	BTO:0001178 (non-specific)	Kidney - Cortex
+WERI-Rb-1	Cell Line	eye	F	WERIRB1	human	BTO:0001178 (non-specific)	NA
 WI-38	Cell Line	embryonic lung	F	WI38	human	BTO:0001958	Lung
 Heart_STL003	Cell Line	heart	M	HeartSTL003	human	BTO:0000562	Heart - Left Ventricle;Heart - Atrial Appendage
