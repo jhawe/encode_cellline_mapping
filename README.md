@@ -21,6 +21,6 @@ wget -O controlled_vocab.txt http://hgdownload.soe.ucsc.edu/goldenPath/encodeDCC
 
 ### Parse the file and extract cellline to tissue mapping, separate file for available human cell lines
 ```{bash}
-python extract_cellline_mapping.py > cell_line_info.tsv
+python scripts/extract_cellline_mapping.py > cell_line_info.tsv
 grep human cell_line_info.tsv > cell_line_info_human.tsv
 ```
